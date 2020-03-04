@@ -1,0 +1,24 @@
+p{
+    color: black;
+    font-size: 12px;
+    font-family: Courier;
+    font-style: bold;
+}
+
+h1{
+    font-size: 25px;
+    color: black;
+    font-style: bold;
+    font-family: Courier;
+    margin: initial 50px;
+}
+h3{
+    color: black;
+    font-style: bold;
+    font-family: Courier;
+}
+footer{
+    display: block;
+    font-family: Courier;
+    
+}
